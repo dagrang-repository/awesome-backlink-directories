@@ -1,0 +1,32 @@
+title: "Awesome Backlink Directories"
+description: "A curated list of directories that give you real backlinks. SaaS, AI, startup, dev — all the directories worth submitting to."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+
+author:
+  name: Pawel Boguta
+  url: https://batchlisted.com
+
+twitter:
+  card: summary
+
+show_downloads: false
+
+keywords: "directories for backlinks, backlink directories, sites to submit your website for backlinks, high authority directories"
+
+# Jekyll generates pretty URLs; default layout applies cayman to README
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - .github/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - _push.cjs
