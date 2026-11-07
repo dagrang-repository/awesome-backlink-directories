@@ -41,6 +41,7 @@ Not every directory is worth your time. This list is filtered to **directories t
 - **[Uneed](https://www.uneed.best)** · DR 32 · dofollow · free + paid tier
 - **[MicroLaunch](https://microlaunch.net)** · DR 30 · dofollow · free — Daily micro-launches.
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
+- **[We push your site to the World](https://wepushyoursitetotheworld.aplusz.app)** · dofollow · free — Free check + listing for any site, built for people and AI models (llms.txt, IndexNow, MCP). New (Nov 2026), DR not yet measured.
 
 ## Startup Directories
 
